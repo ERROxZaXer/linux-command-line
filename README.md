@@ -36,14 +36,6 @@ educational purposes only.
 
 If you find this useful, please support the author by reading the original book.
 
----
-
-## 📥 Download
-
-➡️ **[Download the PDF](./The-Linux-Command-Line.pdf)**
-
----
-
 ## 🛠️ Tools & Environment
 
 - OS: Linux (Debian / Kali)
