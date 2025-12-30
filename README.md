@@ -40,7 +40,7 @@ If you find this useful, please support the author by reading the original book.
 
 ## 📥 Download
 
-➡️ **[Download the PDF](./book/The_Linux_Command_Line_Notes.pdf)**
+➡️ **[Download the PDF](./The-Linux-Command-Line.pdf)**
 
 ---
 
